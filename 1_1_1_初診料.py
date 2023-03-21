@@ -1,3 +1,5 @@
+# 1_1_1 初診料
+
 def calculate_initial_consultation_fee_v2(
     is_first_visit: bool,
     remote_first_visit: bool,
